@@ -1,16 +1,14 @@
-### Hi there 👋
+   ### Hi there 👋, I'm Prakhar Srivastav 
+   ### B.Tech student at MNNIT Allahabad.
+ 
+ 🔭 Working on to build a better version of myself and keep exploring new things.
 
-<!--
-**prakhar76074/prakhar76074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning development and competitive programming.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Tell me about exciting things that you have learned .
+
+📫 How to [Contact me](sriprakhar63@gmail.com)
+
+
